@@ -16,7 +16,7 @@
     {
       "key": "pastries",
       "label": "Artisan Pastries",
-      "icon": "bi-cookie",
+      "icon": "bi-croissant",
       "blurb": "Laminated croissants, Danishes, eclairs and buttery tarts.",
       "count": 40,
       "image": "assets/images/products/pastries/croissant.jpg",
